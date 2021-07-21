@@ -1,5 +1,4 @@
 # sequence-to-sequence-neural-machine-translation
-Sequence to sequence example in Keras (character-level).
 
 Sequence to sequence example in Keras (character-level).
 
